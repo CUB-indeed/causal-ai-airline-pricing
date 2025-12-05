@@ -1,0 +1,5 @@
+Trim rule,N (kept),$\widehat{\mathrm{ATE}}$,Std. Error
+No trim,115032,-4.052,0.066
+1% tails,112730,-4.404,0.072
+2% tails,109280,-4.807,0.079
+5% tails,103528,-5.164,0.087
